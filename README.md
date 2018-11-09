@@ -1,2 +1,3 @@
-# rschooltoday_api_documentation
+# Rschooltoday API Documentation
+
 Rschooltoday API Documentation 
